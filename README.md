@@ -3,14 +3,13 @@ second** attempt at getting a macropad approved by Hack Club
 # PCB
 Designed in KiCad, it was really fun learning and designing the PDB!
 
-Scematic image:
+![Scematic Image](https://github.com/abinbad/Numbad/blob/main/Assets/Numbad%20PCB%20Scematic.png)
 
-PCB Image:
+![PCB Image](https://github.com/abinbad/Numbad/blob/main/Assets/Numbad%20PCB.png)
 
 # CAD
 I actually designed it in Onshape ;P\
-CAD Image:
-
+![Numbad Model](https://github.com/abinbad/Numbad/blob/main/Assets/Numbad%20Combined%20Case.png)
 # Firmware
 I am using the KMK Firmware, i just changed the pins i used on the board.
 # Bill of Materials
