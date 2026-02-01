@@ -1,11 +1,11 @@
 # Numbad
 second** attempt at getting a macropad approved by Hack Club
 # PCB
-Designed in KiCad, it was really fun learning and designing the PDB!\
+Designed in KiCad, it was really fun learning and designing the PDB!
 
-Scematic image:\
+Scematic image:
 
-PCB Image:\
+PCB Image:
 
 # CAD
 I actually designed it in Onshape ;P\
@@ -19,7 +19,7 @@ MX-Style Switches * 9\
 Blank DSA keycaps * 9\
 M3x16mm screws * 1\
 PCB * 1\
-3D Printeded Parts * 2\
+3D Printeded Parts * 2
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠛⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
